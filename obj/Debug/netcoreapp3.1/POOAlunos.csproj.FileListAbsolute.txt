@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\Andre\POOAlunos\bin\Debug\netcoreapp3.1\POOAlunos.exe
+C:\Users\fic\Desktop\Andre\POOAlunos\bin\Debug\netcoreapp3.1\POOAlunos.deps.json
+C:\Users\fic\Desktop\Andre\POOAlunos\bin\Debug\netcoreapp3.1\POOAlunos.runtimeconfig.json
+C:\Users\fic\Desktop\Andre\POOAlunos\bin\Debug\netcoreapp3.1\POOAlunos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Andre\POOAlunos\bin\Debug\netcoreapp3.1\POOAlunos.dll
+C:\Users\fic\Desktop\Andre\POOAlunos\bin\Debug\netcoreapp3.1\POOAlunos.pdb
+C:\Users\fic\Desktop\Andre\POOAlunos\obj\Debug\netcoreapp3.1\POOAlunos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Andre\POOAlunos\obj\Debug\netcoreapp3.1\POOAlunos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Andre\POOAlunos\obj\Debug\netcoreapp3.1\POOAlunos.AssemblyInfo.cs
+C:\Users\fic\Desktop\Andre\POOAlunos\obj\Debug\netcoreapp3.1\POOAlunos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Andre\POOAlunos\obj\Debug\netcoreapp3.1\POOAlunos.dll
+C:\Users\fic\Desktop\Andre\POOAlunos\obj\Debug\netcoreapp3.1\POOAlunos.pdb
+C:\Users\fic\Desktop\Andre\POOAlunos\obj\Debug\netcoreapp3.1\POOAlunos.genruntimeconfig.cache
