@@ -7,6 +7,7 @@ namespace POOAlunos
     {
         static void Main(string[] args)
         {
+
             Aluno aluno1 = new Aluno();
             Console.WriteLine("Digite o nome do aluno:");
             aluno1.nome = Console.ReadLine();
@@ -36,6 +37,7 @@ namespace POOAlunos
             }
 
             //Menu
+               int opcao;
 
             do
             {
@@ -43,9 +45,10 @@ namespace POOAlunos
                 Console.WriteLine("[1] - Ver média do aluno"); 
                 Console.WriteLine("[2] - Ver mensalidade do aluno"); 
                 Console.WriteLine("[0] - Sair"); 
-            } while (true);
 
-            int opcao;
+            } while (opcao != 0);
+
+            
             switch (opcao)
             {
                 case 1:
@@ -57,7 +60,8 @@ namespace POOAlunos
                     break;
 
                 case 0:
-                Console.WriteLine("Obrigado por acessar");        
+                Console.WriteLine("Obrigado por acessar");  
+                    break;      
                 default:
                 Console.WriteLine("Opção inválida!");
                     break;
